@@ -1,0 +1,11 @@
+.banner {
+  color: white;
+  height: 500px;
+  display: flex;
+  align-items: center;
+}
+
+.banner h1 {
+  font-size: 60px;
+  margin: 0;
+}
